@@ -1,0 +1,12 @@
+{
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.root": "",
+  "remote.portsAttributes": {
+    "443": {
+      "protocol": "https"
+    },
+    "8443": {
+      "protocol": "https"
+    }
+  }
+}
