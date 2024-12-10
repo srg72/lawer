@@ -1,8 +1,23 @@
-.header {
-  background-color: rgb(69, 76, 206);
-  border-color: red 2px;
+.roboto-regular {
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
 }
-.list {
-  background-color: rgb(8, 75, 30);
-  border-color: red 2px;
+
+.roboto-medium {
+  font-family: "Roboto", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", serif;
+  font-weight: 900;
+  font-style: normal;
 }
